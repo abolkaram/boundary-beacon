@@ -1,0 +1,12 @@
+{
+  "network": "StudioNet",
+  "contractAddress": "0x0489E007152f935cBF3FcB12511856117c93cAbf",
+  "deploymentTransaction": "0xf8b91ada81ddb6d07c839ae914630814d63591784cc5969c10a28cea7e8ab17d",
+  "deploymentStatus": "FINALIZED",
+  "deploymentResult": "MAJORITY_AGREE",
+  "sourceCommit": "4f5096f",
+  "sourceMatchVerified": true,
+  "liveSmokeTransaction": "0xc677c25ee68a8ff1d948d7ca72bb4ab4d43773ce12732ecd411c1932183a6d3f",
+  "liveSmokeStatus": "ACCEPTED",
+  "liveSmokeResult": "MAJORITY_AGREE"
+}
